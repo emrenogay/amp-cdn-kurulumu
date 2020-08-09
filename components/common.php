@@ -68,7 +68,7 @@ function controller_cdn(){
         global $lang;
         echo '<meta name="generator" content="'.$lang['generator'].'"/>';
     },1);
-
+/*
 function newCdnCanonical()
 {
     if (is_home()) {
@@ -87,7 +87,7 @@ function newCdnCanonical()
     }
 }
 
-add_action('wp_head', 'newCdnCanonical');
+add_action('wp_head', 'newCdnCanonical');*/
 
 function _baseURL(){
 	if(is_ssl()){
