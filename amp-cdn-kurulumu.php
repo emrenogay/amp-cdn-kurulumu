@@ -3,7 +3,7 @@
     Plugin Name: AMP CDN kurulumu
     Plugin URI: https://emrenogay.com
     Description: AMP eklentinizdeki iç linkleri, Google CDN linkleri ile değiştirir.
-    Version: 1.7.2
+    Version: 1.8.0
     Author: Emre Nogay
     Author URI: https://emrenogay.com
     License: Apache 2.0
