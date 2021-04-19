@@ -21,8 +21,6 @@ Bu eklenti ne yapar?
 # AMP CDN Kurulumu için Ne Gerekli?
 İç linklerinizin CDN ile dönüştürülmesi için herhangi bir AMP eklentisini kullanabilirsiniz. Sahip olmanız gereken AMP uyumlu sayfalar. Buna örnek: BetterAMP, AMP for WP...
 
-# Eklentiye sınırsız lisans kodu almak için: https://emrenogay.com/iletisim/
-
 Wordpress sitenizdeki AMP sayfalarının iç linklerini Google'ın önbelleğinden gelen cdn yani cdn.ampproject.org linkleri ile değiştirir. Aynı zamanda subdomain içinde kullanıma uygundur, wildcard destekler.
 Bu yapıya amp cdn kurulumu denir.
 
