@@ -1,6 +1,10 @@
 # AMP CDN Kurulumu
 
+DISCLAMER
+
 EN
+
+DISCLAMER - At your own risk!
 
 What does this plugin do?
 - Replaces the internal links of the AMP pages on your site with the cdn.ampproject.org structure. For example;
@@ -10,6 +14,8 @@ What does this plugin do?
 * The plugin is compatible with all other plugins & themes.
 
 TR
+
+SORUMLULUK REDDİ - Kullanımdan doğabilecek yasal sorumluluk size aittir.
 
 Bu eklenti ne yapar?
 - Sitenizde bulunan AMP sayfaların iç linklerini cdn.ampproject.org yapısı ile değiştirir. Örneğin;
