@@ -1,8 +1,6 @@
 # AMP CDN Kurulumu
 
-DISCLAMER
-
-EN
+[EN]
 
 DISCLAMER - At your own risk!
 
@@ -13,7 +11,7 @@ What does this plugin do?
 
 * The plugin is compatible with all other plugins & themes.
 
-TR
+[TR]
 
 SORUMLULUK REDDİ - Kullanımdan doğabilecek yasal sorumluluk size aittir.
 
